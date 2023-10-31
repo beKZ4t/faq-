@@ -43,7 +43,12 @@ padding-top: 30px;
   display: block;
 }
 
-
+.status-img{
+  background-image: url(Screenshot_2.png);
+  width: 24px;
+  height: 23px;
+  border: none;
+}
 
 .item.active .status-img{
   background-image: url(Screenshot_3.png);
@@ -52,4 +57,5 @@ padding-top: 30px;
     border: none;
 
 }
+
 
